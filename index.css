@@ -1,0 +1,43 @@
+body {
+    margin: 80px;
+    background-color: aqua;
+
+}
+
+#btn {
+    background-color:blue ;
+    }
+    
+
+#name {
+        margin-left: 200px;
+        background-color:white;
+        font-size:xx-large;
+        width: 900px;
+        text-align: center;
+        
+        
+    }
+
+
+#all {
+        background-color: aqua;
+        display: flex;
+        flex-direction: column
+        
+    }  
+
+.alll {
+        margin-left: 350px ;
+        padding-right: 50px;
+        background-color: white;
+        width: 500px;
+        height: 400px;
+    }    
+
+#res {
+        padding-left: 120px;
+        
+        padding-left: 30px;
+        font-size: larger;
+    }
